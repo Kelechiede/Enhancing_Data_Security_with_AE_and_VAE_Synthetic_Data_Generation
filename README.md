@@ -1,7 +1,6 @@
 # Project Documentation
 
-# Enhancing Data Security in Healthcare with Synthetic Data Generation
-## An Auto-Encoder and Variational Auto-Encoder Approach
+# Enhancing Data Security in Healthcare with Synthetic Data Generation: An Auto-Encoder and Variational Auto-Encoder Approach
 
 ### Abstract
 The advent of machine learning and artificial intelligence (AI) in healthcare has revolutionized data analysis and patient care. This thesis addresses these challenges by exploring the application of Auto-Encoders (AEs) and Variational Auto-Encoders (VAEs) in synthetic healthcare data generation, enhancing data security and producing synthetic data that upholds privacy while retaining utility for AI applications.
@@ -44,10 +43,10 @@ The control dataset helps benchmark privacy leakage and ensures that our evaluat
 
 ### About the Anonymeter Tool
 For more information on the Anonymeter tool, including installation and usage, please visit the authors and owners website and github page via the links below:
-- [Anonymeter Official Website](https://www.anonos.com/blog/presenting-anonymeter-the-tool-for-assessing-privacy-risks-in-synthetic-datasets)
-- [Anonymeter GitHub Repository](https://github.com/statice/anonymeter)
+1. **Written by Elise Devaux**: [Anonymeter Official Website](https://www.anonos.com/blog/presenting-anonymeter-the-tool-for-assessing-privacy-risks-in-synthetic-datasets)
+2. **Matteo Giomi**: [Anonymeter GitHub Repository](https://github.com/statice/anonymeter)
 
-Author of the above named project:Enhancing_Data_Security_with_AE_and_VAE_Synthetic_Data_Generation
+Author of the above named project: Enhancing_Data_Security_with_AE_and_VAE_Synthetic_Data_Generation
 Kelechukwu Innocent Ede
 
 Email: kelechukwuede@gmail.com
