@@ -42,12 +42,12 @@ This project utilizes autoencoders to generate synthetic data, minimizing the ri
 Control Dataset
 The control dataset helps benchmark privacy leakage and ensures that our evaluations accurately reflect the privacy-preserving capabilities of our synthetic data generation methods.
 
-About the Anonymeter Tool
-For more information on the Anonymeter tool, including installation and usage, please visit:
+### About the Anonymeter Tool
+For more information on the Anonymeter tool, including installation and usage, please visit the authors and owners website and github page via the links below:
+- [Anonymeter Official Website](https://www.anonos.com/blog/presenting-anonymeter-the-tool-for-assessing-privacy-risks-in-synthetic-datasets)
+- [Anonymeter GitHub Repository](https://github.com/statice/anonymeter)
 
-Anonymeter Official Website
-Anonymeter GitHub Repository
-Author
+Author of the above named project:Enhancing_Data_Security_with_AE_and_VAE_Synthetic_Data_Generation
 Kelechukwu Innocent Ede
 
 Email: kelechukwuede@gmail.com
@@ -55,4 +55,4 @@ License
 This project is open source and available under the MIT License.
 
 Acknowledgments
-Special thanks to the contributors of the Anonymeter tool for their open-source contributions to privacy technology.
+Special thanks to the authors and contributors of the Anonymeter tool for their open-source contributions to privacy technology.
